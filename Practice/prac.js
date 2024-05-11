@@ -22,4 +22,10 @@
 
 // console.log(3**3);
 
+const profile =  {
+    fullName : "Rashi",
+    age : 23,
+    isFollow : true,
+};
 
+console.log(typeof profile['age']);
