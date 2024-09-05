@@ -1,0 +1,30 @@
+div{
+  height: 100px;
+  width: 100px;
+  background: dodgerblue;
+  color: white;
+  border: 2px solid black;
+}
+.change{
+    font-size: 30px;
+    color: rgb(230, 101, 21);
+    border: 3px solid black;
+    background: rgb(209, 166, 203);
+}
+.dark{
+    background: #000;
+    color: white;
+}
+.light{
+    background: white;
+    color: black;
+}
+
+.btn{
+    
+    height: 80px;
+    width: 100px;
+    background: #000;
+    color: white;
+
+}
